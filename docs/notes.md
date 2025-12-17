@@ -9,3 +9,4 @@ Notes and usage details for openleetcode.
 - fix a small wording issue
 - clarify the setup steps
 - fix a small wording issue
+- clarify the setup steps
